@@ -1,13 +1,8 @@
-# Site wide configuration
-
-title: "successfulhomestead.com"
-description: "Coming Soon!"
-#if you modify locale please have a look at _data/messages.yml too
+---
+title: successfulhomestead.com
+description: Coming Soon!
 locale: en
-#for meta name="author" :
-author:
-
-#Target date in UTC / GMT
+author: 
 countdown:
   theme: flat-colors-wide
   year: 2016
@@ -15,15 +10,12 @@ countdown:
   day: 1
   hour: 0
   minute: 0
-
-color1: "#300030"
-color2: "#480048"
-color3: "#601848"
-color4: "#C04848"
-color5: "#F07241"
-theme_num: "48"
-
-# Site owner
+color1: '655643'
+color2: 80BCA3
+color3: F6F7BD
+color4: E6AC27
+color5: BF4D28
+theme_num: 20
 owner:
   name: siteCo.xyz
   email: xyzsiteco@gmail.com
@@ -33,18 +25,31 @@ owner:
   instagram: xyzsiteco
   url: http://siteco.xyz
   aboutlink:
-    url:
-    caption:
-
-
-# Jekyll configuration
+    url: 
+    caption: 
 sass:
   sass_dir: _sass
   style: compressed
-permalink: /:categories/:title/
+permalink: "/:categories/:title/"
 kramdown:
   toc_levels: 1..2
 highlighter: pygments
-
-
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+exclude:
+- lib
+- config.rb
+- ".sass-cache"
+- Capfile
+- config
+- log
+- Rakefile
+- Rakefile.rb
+- tmp
+- "*.sublime-project"
+- "*.sublime-workspace"
+- Gemfile
+- Gemfile.lock
+- README.md
+- LICENSE
+- node_modules
+- Gruntfile.js
+- package.json
