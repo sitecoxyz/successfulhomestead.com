@@ -1,0 +1,50 @@
+# Site wide configuration
+
+title: "successfulhomestead.com"
+description: "Coming Soon!"
+#if you modify locale please have a look at _data/messages.yml too
+locale: en
+#for meta name="author" :
+author:
+
+#Target date in UTC / GMT
+countdown:
+  theme: flat-colors-wide
+  year: 2016
+  month: 2
+  day: 1
+  hour: 0
+  minute: 0
+
+color1: "#300030"
+color2: "#480048"
+color3: "#601848"
+color4: "#C04848"
+color5: "#F07241"
+theme_num: "48"
+
+# Site owner
+owner:
+  name: siteCo.xyz
+  email: xyzsiteco@gmail.com
+  twitter: xyzsiteco
+  facebook: xyzsiteco
+  google_plus: xyzsiteco
+  instagram: xyzsiteco
+  url: http://siteco.xyz
+  aboutlink:
+    url:
+    caption:
+
+
+# Jekyll configuration
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
