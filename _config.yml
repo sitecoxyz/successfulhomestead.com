@@ -10,12 +10,12 @@ countdown:
   day: 1
   hour: 0
   minute: 0
-color1: '655643'
-color2: 80BCA3
-color3: F6F7BD
-color4: E6AC27
-color5: BF4D28
-theme_num: 20
+color1: '"#8C2318"'
+color2: '"#5E8C6A"'
+color3: '"#88A65E"'
+color4: '"#BFB35A"'
+color5: '"#F2C45A"'
+theme_num: '23'
 owner:
   name: siteCo.xyz
   email: xyzsiteco@gmail.com
