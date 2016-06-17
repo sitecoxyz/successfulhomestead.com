@@ -11,7 +11,7 @@ title                    : "SuccessfulHomestead"
 title_separator          : "-"
 name                     : "SuccessfulHomestead.com"
 description              : "Exploring the extensive possibilities of homesteading."
-url                      : "http://localhost:4000" #"http://successfulhomestead.com"
+url                      : "http://successfulhomestead.com"
 baseurl                  : "/"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
