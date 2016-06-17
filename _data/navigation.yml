@@ -1,0 +1,15 @@
+# main links links
+main:
+
+  - title: "Blog"
+    url: /
+
+  - title: "Discussion Forum"
+    url: https://forum.successfulhomestead.com
+
+  - title: "Book Reviews"
+    url: /books/
+
+
+  - title: "About Us"
+    url: /about/
