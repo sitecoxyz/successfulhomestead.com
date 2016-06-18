@@ -9,4 +9,5 @@ excerpt: "All the knowledge, data, and connections you need to make homesteading
 intro:
   - excerpt: '"The greatest fine art of the future will be the making of a comfortable living from a small piece of land." &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`-Abraham Lincoln`'
 ---
-{% include feature_row id="intro" type="center" %}
+
+Just obsessed with homesteading!
