@@ -2,7 +2,7 @@
 main:
 
   - title: "Blog"
-    url: /
+    url: /blog/
 
   - title: "Discussion Forum"
     url: https://forum.successfulhomestead.com
